@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    gap: 2rem;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+}
+
+#azul {
+    background-color: blue;
+    
+}
+#rojo {
+    background-color: rgb(255, 0, 0);
+}
+#verde {
+    background-color: rgb(0, 255, 115);
+}
+#amarillo {
+    background-color: rgb(255, 251, 0);
+}
+
+#key {
+    background-color: white;
+    border:solid  black 2px;
+}
+
